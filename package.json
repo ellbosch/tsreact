@@ -1,0 +1,29 @@
+{
+  "name": "tsclient",
+  "version": "0.1.0",
+  "description": "ts react scaffold",
+  "scripts": {
+    "watch": "webpack --progress",
+    "start": "webpack-dev-server --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "7.0.1",
+    "react-spring": "^8.0.19",
+    "redux": "4.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.3",
+    "@types/react-redux": "7.0.6",
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.4.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
