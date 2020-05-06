@@ -5,5 +5,5 @@
 To start dev server, in a different terminal:
 `yarn start`
 
-Then point your browser at https://localhost:8000
+Then point your browser at http://localhost:8000
 
